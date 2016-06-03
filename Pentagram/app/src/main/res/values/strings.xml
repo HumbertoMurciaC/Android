@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Pentagram</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="titulo">Hello word</string>
+    <string name="mensaje">Favorito</string>
+    <string name="Accion">Acción</string>
+    <string-array name="Planetas">
+        <item >Mercurio</item>
+        <item> Venus</item>
+        <item>Marte</item>
+        <item>Tierra</item>
+        <item>Jupiter</item>
+    </string-array>
+    <string name="Titulo_tarjeta">Master Yoda</string>
+    <string name="Descripcion_tarjeta">May the force be with you !</string>
 </resources>
